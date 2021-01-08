@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">c2w1t2_bindingService</string>
+    <string name="tv_main_text">"Well come to main page!"</string>
+    <string name="reset">Reset</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

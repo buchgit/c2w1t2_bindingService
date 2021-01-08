@@ -16,6 +16,10 @@ import java.util.concurrent.Executors;
 import java.util.concurrent.ScheduledExecutorService;
 import java.util.concurrent.TimeUnit;
 
+/*
+Курс Coursera по андроиду: Многопоточность и сетевое взаимодействие. Неделя 1, Задание на Services, Receivers.
+ */
+
 public class MainActivity extends AppCompatActivity {
 
     private static final String TAG = MainActivity.class.getSimpleName();
